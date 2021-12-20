@@ -260,3 +260,8 @@ body{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+.pizza2 {
+        position: absolute;
+        right: 0;
+        top: -135px;
+}
