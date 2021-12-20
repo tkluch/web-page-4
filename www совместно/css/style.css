@@ -290,3 +290,18 @@ body{
     justify-content: flex-start;
     list-style-type: none;
 }
+.btn-start-ingr {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    background-image: url(../image/bg.png);
+    background-position: center center;
+    text-decoration: none;
+    padding: 29px 93px;
+    background-repeat: no-repeat;
+}
+.page1 {
+    padding-top: 0px;
+    padding-bottom: 150px;
+}
