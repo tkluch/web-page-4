@@ -265,3 +265,32 @@ body{
         right: 0;
         top: -135px;
 }
+.banner1 {
+    background-image: url(../image/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: -100px;
+}
+.w3 {
+    display: flex;
+    justify-content: flex-start;
+}
+.page1 {
+    padding-top: 240px;
+    padding-bottom: 127px;
+}
+.btn-start-ingr {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    background-image: url(../image/bg.png);
+    background-position: center center;
+    text-decoration: none;
+    padding: 29px 93px;
+    background-repeat: no-repeat;
+}

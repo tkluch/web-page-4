@@ -45,7 +45,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: red;
+  background-color: #666;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -55,8 +55,8 @@ header {
 
 nav {
   float: left;
-  width: 20%;
-  height: 250px; 
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
   background: tomato;
   padding: 20px;
 }
@@ -70,13 +70,12 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 80%;
+  width: 70%;
   background-color: #f1f1f1;
-  height: 250px; 
-  color: black;
+  height: 300px; /* only for demonstration, should be removed */
 }
 
-
+/* Clear floats after the columns */
 section::after {
   content: "";
   display: table;
